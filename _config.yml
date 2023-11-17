@@ -20,7 +20,7 @@ logo-icon-SEO: pk_logo.png # must be a non SVG file
 # the browser is closed or not)
 night_mode: "on"
 
-logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
+logo-dark: pk_logo.png
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
